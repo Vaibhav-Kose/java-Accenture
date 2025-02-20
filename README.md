@@ -2,12 +2,6 @@
 
 This project is a **Library Management System** built using Java and JDBC (Java Database Connectivity). It allows users to manage a library's books, members, and transactions. The system is designed for small to medium-sized libraries and ensures efficient tracking of books and borrowing activities.
 
----
-## Flow Digram of Library Management System
-
-![image alt](https://github.com/lucky001118/JDBC_Project_LMS/blob/main/LMS.drawio.png?raw=true)
----
-
 ## Features
 
 - **Book Management**: Add, update, delete, and search for books.
@@ -16,13 +10,6 @@ This project is a **Library Management System** built using Java and JDBC (Java 
 - **Transaction History**: View and log all borrowing and returning activities.
 - **Search Functionality**: Search for books and members using various filters (e.g., title, author, ID).
 - **Database Integration**: Uses MySQL as the backend database for secure and efficient data storage.
-
----
-
-## ER Diagram
-
-The following diagram represents the **Entity-Relationship (ER) Model** for the Library Management System. It shows the structure of the database, including entities, attributes, and their relationships.
-![image alt](https://github.com/lucky001118/JDBC_Project_LMS/blob/bdddd8370196671c526a4f0856840bd68e8d92b4/Screenshot%20(241).png)
 
 ---
 
@@ -117,6 +104,6 @@ Contributions are welcome! Please fork the repository, create a new branch, and 
 ## Contact
 
 For any queries or issues, please feel free to contact:
-- **Name**: vaibhav kose 
+- **Name**: Vaibhav kose 
 - **Email**: [vaibhavkose148@gmail.com]
 ```
