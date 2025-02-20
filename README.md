@@ -117,6 +117,6 @@ Contributions are welcome! Please fork the repository, create a new branch, and 
 ## Contact
 
 For any queries or issues, please feel free to contact:
-- **Name**: Lucky Manikpur
-- **Email**: [manikpurilucky218@gmail.com]
+- **Name**: vaibhav kose 
+- **Email**: [vaibhavkose148@gmail.com]
 ```
